@@ -1,0 +1,6 @@
+07:00-07:10 -> {apple=2, brownie=1}
+07:10-07:15 -> {apple=3, brownie=1, carrot=3}
+07:15-07:20 -> {apple=4, sandwich=2, brownie=4, carrot=3}
+07:20-07:30 -> {apple=5, diamond=4, sandwich=2, brownie=6, carrot=3}
+07:30-07:45 -> {apple=3, diamond=4, sandwich=2, brownie=5, carrot=3}
+07:45-08:00 -> {apple=2, sandwich=2, brownie=3, carrot=3}
